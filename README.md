@@ -1,6 +1,6 @@
 ApanaGHR: Task - A
 
-DEPLOYED LINK: https://apanaghr-task-a-siddeshb.netlify.app/login
+DEPLOYED LINK: https://apanaghr-task-a-siddeshb.netlify.app
 
 This is a modern and responsive rental properties listing web application built using ReactJS and Bootstrap. It provides a user-friendly interface for browsing rental properties, filtering listings, and simulating user login.
 
